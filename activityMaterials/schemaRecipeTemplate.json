@@ -1,0 +1,9 @@
+{
+	"@context": "http://schema.org",
+	"@type:": "Recipe",
+	"name": "",
+	"author": {
+		"@type": "Person"
+	},
+	"cookTime": ""
+}
