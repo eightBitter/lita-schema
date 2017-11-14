@@ -1,8 +1,0 @@
-{
-	"@context": "http://schema.org",
-	"@type": "Event",
-	"location": {
-		"@type": "Place"
-	},
-	"name": ""
-}
