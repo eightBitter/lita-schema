@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://d.lib.ncsu.edu/collections/catalog/0227879",
+  "url": "https://d.lib.ncsu.edu/collections/catalog/0227879",
+  "name": "Going Places: Students walking by the Bell Tower",
+  "thumbnailUrl": "https://iiif.lib.ncsu.edu/iiif/0227879/full/350,/0/default.jpg",
+  "image": "https://iiif.lib.ncsu.edu/iiif/0227879/full/350,/0/default.jpg",
+  "dateCreated": "1970",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "People"
+    },
+    {
+      "@type": "Thing",
+      "name": "Student Life"
+    },
+    {
+      "@type": "Thing",
+      "name": "African American students",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85001908"
+    },
+    {
+      "@type": "Thing",
+      "name": "African Americans -- History",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85001955"
+    },
+    {
+      "@type": "Thing",
+      "name": "Students",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85129296"
+    },
+    {
+      "@type": "Thing",
+      "name": "Universities and colleges",
+      "sameAs": "http://id.loc.gov/authorities/subjects/sh85141086"
+    },
+    {
+      "name": "North Carolina State University",
+      "description": "Established by the N.C. General Assembly in 1887 as a Land Grant college in Raleigh, NC, the University now has the largest student body of the 17 campuses comprising the University of North Carolina system and is the largest institution of higher learning in the state.",
+      "@type": "Organization",
+      "sameAs": "http://id.loc.gov/authorities/names/n81014041"
+    },
+    {
+      "name": "North Carolina State University -- Students",
+      "@type": "Organization"
+    }
+  ],
+  "keywords": [
+    "People",
+    "Student Life"
+  ],
+  "genre": [
+    "Photographs"
+  ],
+  "inLanguage": [
+    "eng"
+  ],
+  "isPartOf": [
+    "https://d.lib.ncsu.edu/collections/catalog?f%5Bispartof_facet%5D%5B%5D=University+Archives+Photographs"
+  ],
+  "contentLocation": [
+    {
+      "@type": "Place",
+      "name": "North Carolina State University, Memorial Belltower -- Memorial Tower (Raleigh, Wake County, North Carolina)",
+      "alternateName": "NCSU Memorial Belltower (Raleigh, N.C.)",
+      "description": null,
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "2701 Sullivan Drive",
+        "addressRegion": "North Carolina",
+        "postalCode": "27607"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "35.786098",
+        "longitude": "-78.663498"
+      }
+    },
+    {
+      "@type": "Place",
+      "name": "Raleigh (N.C.)",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "35.7719",
+        "longitude": "-78.6389"
+      }
+    }
+  ]
+}

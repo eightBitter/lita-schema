@@ -1,4 +1,4 @@
 Introduction to Schema.org and JSON-LD
 ======================================
 
-This repo contains all the content used for the LITA webinar I did on Schema.org and JSON-LD. The [activity materials](./activityMaterials) folder contains all the materials needed for the actiity session. The [extras](./extras) folder contains extra content that supplements the main content of the session.
+This repo contains all the content used for LITA webinars I have done on Schema.org and JSON-LD. Each subfolder contains slides for the session, materials for the accompanying activity, and other supplemental materials.
